@@ -1,4 +1,5 @@
 #Cevapları küçük harfle verin
+import random
 sozluk={}
 sozluk["""İstanbul hangi yılda Osmanlı Devleti tarafından alındı?  
     A)1365  
@@ -100,4 +101,3 @@ sozluk["""Bu kod yazılırken kullanılınan kodlama dili nedir?
     B)JavaScript
     C)Phyton
     D)C#"""]='c'
-print(sozluk)
